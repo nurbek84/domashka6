@@ -59,6 +59,7 @@ public class Main {
                 }
             }
         }
+
         return array[0];
     }
 
