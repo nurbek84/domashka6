@@ -59,7 +59,7 @@ public class Main {
                 }
             }
         }
-
+        System.out.println();
         return array[0];
     }
 
